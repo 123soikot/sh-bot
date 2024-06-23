@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "sim",
+    name: "baby",
     version: "4.3.7",
     hasPermssion: 0,
     credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
